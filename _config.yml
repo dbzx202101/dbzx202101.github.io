@@ -1,13 +1,13 @@
 # Site settings
-title: 弈知新
-SEOTitle: 弈知新(●'◡'●)
+title: 埔中2021级01班
+SEOTitle: (●'◡'●)
 header-img: img/post-bg-desk.jpg
-email: ouroooo@163.com
-description: "izx."
-keyword: "Yzx, Yzx Blog, 知新博客, izx, 弈知新, iOS, Apple, iPhone"
-url: "https://iouro.github.io"          # your host, for absolute URL
+email: ouroooo1@163.com
+description: "dbzx202101"
+keyword: "dbzx202101, 埔中2021级, 埔中2024届, 大埔中学, 埔中, 大埔中学2021级01班, 大埔中学2024届01班, dbzx"
+url: "https://dbzx202101.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/iouro/iouro.github.io.git" # you code repository
+github_repo: "https://github.com/dbzx202101/dbzx202101.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/a.JPG      # use absolute URL, seeing it's used in both `/`
 RSS: false
 # weibo_username:     
 zhihu_username:     
-github_username:    iouro
+github_username:    dbzx202101
 facebook_username:  
 jianshu_username:   
 #twitter_username:   
@@ -83,16 +83,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "弈知新丨首页",
+        title: "本站搭建者丨首页",
         href: "https://ouroooo.github.io"
     },{
-        title: "./",
+        title: "埔中论坛",
+        href: "http://dbzx.free.mbbs.cc"
+    },{
+        title: "联系站长",
+        href: "https://dbzx202101.github.io/img/wx.jpg"
+    },{
+        title: "QQ群聊",
         href: "./"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
